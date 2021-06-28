@@ -6,9 +6,9 @@
   "dependencies": {
     "prettier": "^1.19.1",
     "voca": "^1.4.0",
-    "smart-react-service-store-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-react-service-store-library.git",
-    "smart-react-state-store-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-react-State-store-library.git",
-    "smart-react-component-library": "https://oauth2:677138f6a916eac5567178aa509ee986f31f453b@github.com/smartcodehubnext/smart-react-component-library.git"
+    "smart-react-service-store-library": "https://github.com/Smart-code-hub/smart-react-service-store-library.git",
+    "smart-react-state-store-library": "https://github.com/Smart-code-hub/smart-react-state-store-library.git",
+    "smart-react-component-library": "https://github.com/Smart-code-hub/smart-react-component-library.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
